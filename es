@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-19T06:39:52.196Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="ZU8GOGbSKcdVGtBF_y7m" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-19T07:06:53.107Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="eo0xALhAzHAHraG7FX2Q" version="20.4.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="908" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="908" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -18,14 +18,14 @@
         <mxCell id="CVz-CN5RIySxD1AYPkCb-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CVz-CN5RIySxD1AYPkCb-8" target="CVz-CN5RIySxD1AYPkCb-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CVz-CN5RIySxD1AYPkCb-8" value="上传安装包至安装路径" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="270" width="120" height="60" as="geometry" />
+        <mxCell id="CVz-CN5RIySxD1AYPkCb-8" value="安装目录确认" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="280" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="CVz-CN5RIySxD1AYPkCb-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CVz-CN5RIySxD1AYPkCb-11" target="CVz-CN5RIySxD1AYPkCb-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CVz-CN5RIySxD1AYPkCb-11" value="解压安装包" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="370" width="120" height="40" as="geometry" />
+          <mxGeometry x="260" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CVz-CN5RIySxD1AYPkCb-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CVz-CN5RIySxD1AYPkCb-19" target="CVz-CN5RIySxD1AYPkCb-21">
           <mxGeometry relative="1" as="geometry" />
@@ -68,8 +68,14 @@
         <mxCell id="CVz-CN5RIySxD1AYPkCb-46" value="新建用户：es（非root）" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="242.5" y="200" width="155" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="CVz-CN5RIySxD1AYPkCb-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="CVz-CN5RIySxD1AYPkCb-50" target="CVz-CN5RIySxD1AYPkCb-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CVz-CN5RIySxD1AYPkCb-50" value="启动es" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="260" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CVz-CN5RIySxD1AYPkCb-61" value="安装完成" style="whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="260" y="710" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
