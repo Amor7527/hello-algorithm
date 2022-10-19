@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-19T03:14:41.508Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="CBGtaBE5XB_JyElCZRB2" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-19T07:28:16.627Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="op4_OntHrDtnTG7Ua3wv" version="20.4.1" type="github">
   <diagram id="cKEFHMUjiqopljUC_EgE" name="Page-1">
     <mxGraphModel dx="1317" dy="1798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -106,9 +106,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iTW2oAXgUfm2QirYyq5k-44" value="是否有环境（节点）要加配置" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="332.5" y="90" width="147.5" height="80" as="geometry" />
+          <mxGeometry x="296.25" y="90" width="217.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="ewY_Jd3Cqe6iR-cpIsPX-1" value="容器化采集&lt;br&gt;&lt;br&gt;&lt;br&gt;主机部署采集&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ewY_Jd3Cqe6iR-cpIsPX-1" value="容器化采集&lt;br&gt;&lt;br&gt;&lt;br&gt;主机部署采集&lt;br&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="-210" width="120" height="90" as="geometry" />
         </mxCell>
       </root>
