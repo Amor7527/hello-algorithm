@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-25T08:47:35.775Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="whN7zNbz5sInDUtKe8aZ" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-25T08:49:02.959Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="MGYPkHUCXepEGq84zCMn" version="20.4.1" type="github">
   <diagram id="zIk50H9psuUQCmdArKXe" name="第 1 页">
     <mxGraphModel dx="1299" dy="1779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,8 +30,8 @@
         <mxCell id="ZdrlxPHBnQw1uxV7P269-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZdrlxPHBnQw1uxV7P269-7" target="ZdrlxPHBnQw1uxV7P269-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZdrlxPHBnQw1uxV7P269-7" value="默认端口5044&lt;br&gt;(冲突可更改)" style="whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="260" y="440" width="120" height="60" as="geometry" />
+        <mxCell id="ZdrlxPHBnQw1uxV7P269-7" value="默认端口5044&lt;br&gt;(冲突可更改，调整application.properties logstash配置&lt;br&gt;)" style="whiteSpace=wrap;html=1;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="195" y="430" width="250" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ZdrlxPHBnQw1uxV7P269-18" value="集群" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZdrlxPHBnQw1uxV7P269-14" edge="1">
           <mxGeometry relative="1" as="geometry">
